@@ -49,7 +49,7 @@ app.get("/div/:a/:b", (req, res) => {
 
 
 
-// connectDB();
+connectDB();
 
 app.listen(8000, "0.0.0.0", () => {
   console.log("Server running on port 8000");
