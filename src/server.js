@@ -31,7 +31,7 @@ app.get("/sub/:a/:b", (req, res) => {
   res.send(`Result of ${a} mince ${b} is ${substr(a, b)} `);
 });
 
-// mult
+// mult 
 app.get("/mult/:a/:b", (req, res) => {
   const a = parseInt(req.params.a);
   const b = parseInt(req.params.b);
