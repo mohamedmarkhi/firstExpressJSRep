@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "prenom": "Mohamed",
+        "filiere": "DEVOPS",
+        "password": "123456"
+    },
+    {   
+        "id": 2,
+        "prenom": "Yassine",
+        "filiere": "TSGE",
+        "password": "123456"
+    },
+    {   
+        "id": 3,
+        "prenom": "Yazid",
+        "filiere": "TSFC",
+        "password": "123456"
+    },
+    {   
+        "id": 4,
+        "prenom": "Yazid",
+        "filiere": "SEC",
+        "password": "123456"
+    },
+    {   
+        "id": 5,
+        "prenom": "Yazid",
+        "filiere": "IA",
+        "password": "123456"
+    }   
+]

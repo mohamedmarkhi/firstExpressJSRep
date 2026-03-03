@@ -8,7 +8,7 @@
     "start": "node src/server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Markhi",
   "type": "module",
   "license": "ISC",
   "description": "",
